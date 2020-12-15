@@ -11,6 +11,8 @@ A Python package for analyzing and visualizing xyz files.
 
 Copyright (c) 2020, Tengfei Luo
 
+go irish
+go again
 change 
 #### Acknowledgements
  
