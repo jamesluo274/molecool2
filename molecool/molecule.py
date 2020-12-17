@@ -5,8 +5,9 @@ Functions for analyzing/measuring molecules
 from .measure import calculate_distance
 from .atom_data import atomic_weights
 
+
 def build_bond_list(coordinates, max_bond=1.5, min_bond=0):
-    
+
     # Find the bonds in a molecule (set of coordinates) based on distance criteria.
     bonds = {}
     num_atoms = len(coordinates)
@@ -18,6 +19,7 @@ def build_bond_list(coordinates, max_bond=1.5, min_bond=0):
                 bonds[(atom1, atom2)] = distance
 
     return bonds
+
 
 def calculate_molecular_mass(symbols):
     """Calculate the mass of a molecule.
