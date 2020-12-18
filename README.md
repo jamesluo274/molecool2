@@ -1,8 +1,8 @@
 molecool
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/molecool/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/molecool/actions?query=workflow%3ACI)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master)
+[![GitHub Actions Build Status](https://github.com/tengfeiluo/molecool/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/molecool/actions?query=workflow%3ACI)
+[![codecov](https://codecov.io/gh/tengfeiluo/molecool2/branch/main/graph/badge.svg?token=WBNNEJkFF8)](https://codecov.io/gh/tengfeiluo/molecool2)
 
 
 A Python package for analyzing and visualizing xyz files.
@@ -11,9 +11,6 @@ A Python package for analyzing and visualizing xyz files.
 
 Copyright (c) 2020, Tengfei Luo
 
-go irish
-go again
-change 
 #### Acknowledgements
  
 Project based on the 
